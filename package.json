@@ -23,7 +23,8 @@
     "gauge",
     "line",
     "console",
-    "buffer"
+    "buffer",
+    "ansi-escape-sequences"
   ],
   "licenses": [
     {
